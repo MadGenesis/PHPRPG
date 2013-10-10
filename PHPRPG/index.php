@@ -7,7 +7,7 @@
     <body>
         <!-- gå nu væk! -->
         <?php
-        //  hej smukke :)
+        //  hej smukke :)ggghhhhh
         ?>
     </body>
 </html>
