@@ -7,7 +7,7 @@
     <body>
         <!-- gå nu væk! -->
         <?php
-        // put your code here
+        //  hej smukke :)
         ?>
     </body>
 </html>
