@@ -5,9 +5,21 @@
         <title></title>
     </head>
     <body>
-        <!-- gå nu væk! -->
+        
+        <H1>  test  til  develop  a  character class</H1>
+        <!-- g� nu v�k! -->
         <?php
-        //  hej smukke :)ggghhhhh
+       include('character.php');
+       $fail= "mage";
+      $figur = new character();
+      
+     
+        
+      $figur->valg($fail);
+
+        $figur->stats();
+     var_dump($figur);
+        
         ?>
     </body>
 </html>
